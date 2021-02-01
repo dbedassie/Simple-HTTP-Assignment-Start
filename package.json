@@ -1,6 +1,10 @@
 {
     "name": "simple-http-assignment-start",
     "version": "1.0.0",
+    "engines": {
+        "node": "15.7.0",
+        "npm": "7.4.3"
+    },
     "description": "Simple HTTP assignment from Professor Austin Willoughby for IGME-430 at RIT",
     "main": "./src/server.js",
     "scripts": {
